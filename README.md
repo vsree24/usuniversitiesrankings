@@ -1,1 +1,1 @@
-# usuniversitiesrankings
+# universities-data
